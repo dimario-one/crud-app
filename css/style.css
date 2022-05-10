@@ -1,0 +1,47 @@
+#table th {
+    border: 1px solid #696969;
+    position: relative;
+    text-align: center;
+}
+
+#table tr {
+    border: 1px solid #696969;
+    position: relative;
+    text-align: center;
+}
+
+#table td {
+    border: 1px solid #696969;
+    position: relative;
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+    height: auto;
+    border: 1px solid #696969;
+    overflow: auto;
+}
+
+.table__aktors {
+    width: auto;
+    height: 150px;
+    overflow: auto;
+}
+
+
+
+.cell {
+    height: 20px;
+    width: 200px;
+    border: 1px solid grey;
+}
+
+.cell_min {
+    width: 60px;
+}
+
+.cell_big {
+    width: 320px;
+}
+.popup_open{display: flex;}

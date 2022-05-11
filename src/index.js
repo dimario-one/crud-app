@@ -132,7 +132,7 @@ function showTable() {
   }
 }
 
-// Функция добавления абонента
+// Функция добавления 
 function addUser() {
   let arr;
   if (!flagStorage) {
@@ -223,7 +223,7 @@ function setValueRow(row) {
   }
 }
 
-// Функция поиска абонента
+// Функция поиска 
 function findUser() {
   let name = findName.value;
   let arr;
